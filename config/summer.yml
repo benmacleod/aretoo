@@ -1,0 +1,9 @@
+nick: r2
+channels:
+  - "#test"
+auto_rejoin: true
+database:
+  username: aretoo
+  password: aretoo
+  adapter: postgres
+  database: aretoo
